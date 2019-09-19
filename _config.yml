@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Postdoctoral Researcher"
   avatar           : "profile.png"
-  bio              : "Your biography for the left-hand sidebar"
+  bio              : "Researcher at UPenn"
   location         : "Philadelphia, PA"
   employer         :
   googlescholar    : "https://dblp.org/pers/hd/c/Canino:Anthony"
@@ -155,8 +155,6 @@ collections:
   publications:
     output: true
     permalink: /:collection/:path/
-  projects:
-    output: true
     permalink: /:collection/:path/
   talks:
     output: true
@@ -201,15 +199,6 @@ defaults:
       author_profile: true
       share: true
       comments: true
-  # _projects
-  - scope:
-      path: ""
-      type: projects
-    values:
-      layout: single
-      author_profile: true
-      share: true
-      comment: true
   # _talks
   - scope:
       path: ""

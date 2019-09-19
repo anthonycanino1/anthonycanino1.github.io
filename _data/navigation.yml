@@ -1,13 +1,13 @@
 # main links links
 main:
+  - title: "About"
+    url: /about/
+
   - title: "Projects"
     url: /projects/
 
   - title: "Publications"
     url: /publications/
 
-  - title: "Teaching"
-    url: /teaching/    
-    
   - title: "CV"
-    url: /cv/
+    url: /files/canino-cv.pdf
