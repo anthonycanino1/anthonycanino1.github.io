@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Anthony Canino"
 title_separator          : "-"
 name                     : &name "Anthony Canino"
-description              : &description "Postdoctoral Researcher"
+description              : &description "Software Engineer"
 url                      : https://anthonycanino1.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "anthonycanino1/anthonycanino1.github.io"
@@ -80,10 +80,10 @@ analytics:
 
 # Site Author
 author:
-  name             : "Postdoctoral Researcher"
+  name             : "Software Engineer"
   avatar           : "profile.png"
-  bio              : "Researcher at UPenn"
-  location         : "Philadelphia, PA"
+  bio              : "Software Engineer"
+  location         : "Alpharetta, PA"
   employer         :
   googlescholar    : "https://dblp.org/pers/hd/c/Canino:Anthony"
   email            :
